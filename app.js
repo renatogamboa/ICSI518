@@ -14,11 +14,11 @@ aws.config.update({
     // Never share it!
     // Setup Env Variable, e.g: process.env.SECRET_ACCESS_KEY
     signatureVersion: "v4",
-    secretAccessKey: "PhvzZpHWpkXnn9xQXZY2Lfd3llWRAaJm69DTupPc",
+    secretAccessKey: "",
     // Not working key, Your ACCESS KEY ID from AWS should go here,
     // Never share it!
     // Setup Env Variable, e.g: process.env.ACCESS_KEY_ID
-    accessKeyId: "AKIAJ2FOEMP5J7QGCBLQ",
+    accessKeyId: "",
     region: "us-east-2" // region of your bucket
 });
 
